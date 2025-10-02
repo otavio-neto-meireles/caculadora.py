@@ -14,7 +14,9 @@ match operacao:
         res = num1 * num2
     case "/":
         res = num1 / num2
- 
+print(f"continuar caculando?")
+    
+
  
 
 
